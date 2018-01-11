@@ -1,0 +1,151 @@
+p, a {
+	font-family: 'Cantarell', sans-serif;
+}
+
+#content2 > div > div > div > h1 > a {
+    font-family: 'Fjalla One', sans-serif;
+    color:white;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: 'Fjalla One', sans-serif;
+}
+
+a{
+    color: #d47923;
+}
+
+
+/* Navigation */
+#myNavbar {
+    background-color: #262930; 
+    height: 105px; 
+    border-bottom: 0.1px solid #3A4454;
+}
+
+#myNavbar > div.container > div.navbar-header > a > img {
+    width: 250px; 
+    height: auto;
+}
+
+#myNavbar > div.container > div.nav > li > a {
+    margin-left: 20px; color: white;
+}
+
+
+
+/* Header */
+#header {
+    height: 550px;
+    width: 100%;
+    padding: 200px 0 30px;    
+    margin-top: 0px;
+    background-color: #262930;
+}
+
+.header > div.container > div.row > div.col-lg-6 > p {
+    font-size: 16;
+    color: white;
+    margin-top: 1px;
+    text-align: left;
+}
+
+.header > div.container > div.row > div.col-lg-6 > h1 {
+    font-size: 60;
+    color: white;
+    margin-top: 1px;
+    text-align: left;
+}
+
+
+
+/* Content */
+#content {
+    height: 550px;
+    width: 100%;
+    padding: 200px 0 30px;    
+    margin-top: 70px;
+    background-color: #ffffff;
+}
+
+.content > div.container > div.row > div.col-lg-6 > p {
+    font-size: 16;
+    color: #262930;
+    margin-top: 1px;
+    text-align: left;
+}
+
+.content > div.container > div.row > div.col-lg-6 > h1 {
+    font-size: 60;
+    color: #262930;
+    margin-top: 1px;
+    text-align: left;
+}
+
+
+
+
+/* Content 2 */
+#content2 {
+    height: 350px;
+    width: 100%;
+    padding: 200px 0 30px;    
+    margin-top: 0.5px;
+    background-color: #262930;
+}
+
+#content2 > div.container > div.row > div.col-lg-6 > p {
+    font-size: 16;
+    color: white;
+    margin-top: 1px;
+}
+
+#content2 > div.container > div.row > div.col-lg-6 > h1 {
+    font-size: 60;
+    color: white;
+    margin-top: 1px;
+}
+
+
+
+
+/* Footer */
+#footer {
+    float: right;
+    height: 50px;
+    padding: 15px;
+    background-color: #ffffff;
+    text-align: right;
+}
+
+#footer > div > div > div > a {
+    font-size: 16;
+    color: #262930;
+    margin-right: 8px;
+    margin-left: 8px;
+}
+
+
+
+
+/* Impressum Content Area */
+#icontent {
+    height: 550px;
+    width: 100%;
+    padding: 50px 0px 1100px 0px;
+    background-color: #ffffff;
+}
+
+#icontent > div > div > div > p {
+    font-size: 16;
+    color: #262930;
+    margin-top: 1px;
+    text-align: left;
+}
+
+#icontent > div > div > div > h1 {
+    font-size: 60;
+    color: #262930;
+    margin-top: 1px;
+    text-align: left;
+}
